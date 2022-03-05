@@ -1,4 +1,4 @@
-package com.org.cn.fundamentals;
+package fundamentals;
 
 public class HelloWorld {
 	

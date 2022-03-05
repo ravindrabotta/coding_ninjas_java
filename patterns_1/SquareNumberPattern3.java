@@ -1,4 +1,4 @@
-package com.org.cn.patterns_1;
+package patterns_1;
 
 import java.util.Scanner;
 public class SquareNumberPattern3 {

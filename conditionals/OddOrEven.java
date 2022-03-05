@@ -1,4 +1,4 @@
-package com.org.cn.conditionals;
+package conditionals;
 
 import java.util.Scanner;
 
