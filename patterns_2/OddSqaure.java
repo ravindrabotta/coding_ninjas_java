@@ -3,7 +3,7 @@
 5713
 7135*/
 
-package com.org.cn.patterns_2;
+package patterns_2;
 
 import java.util.Scanner;
 public class OddSqaure {

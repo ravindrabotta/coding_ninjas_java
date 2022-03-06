@@ -1,4 +1,4 @@
-package com.org.cn.patterns_2;
+package patterns_2;
 
 import java.util.Scanner;
 

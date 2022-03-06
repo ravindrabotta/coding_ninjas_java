@@ -3,7 +3,7 @@
 1+2+3=6
 1+2+3+4=10*/
 
-package com.org.cn.patterns_2;
+package patterns_2;
 import java.util.Scanner;
 public class SumPattern {
 	
