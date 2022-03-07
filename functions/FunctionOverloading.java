@@ -14,6 +14,13 @@ public class FunctionOverloading {
 		return a + b;
 	}
 	
+	
+	public static long sum(long a,long b)
+	{
+	    System.out.print("long sum ");
+	    return a+b;
+	}
+	
 	public static void main(String[] args) {
 		int a = 10;
 		int b = 5;
