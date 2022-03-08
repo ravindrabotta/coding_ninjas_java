@@ -35,10 +35,8 @@ public class ArrangeNumbersInArray {
 		while (t > 0) {
 			int n = Integer.parseInt(br.readLine());
 			int[] arr = new int[n];
-
 			ArrangeNumbersInArray.arrange(arr, n);
 			printArray(arr);
-
 			t -= 1;
 		}
 	}
